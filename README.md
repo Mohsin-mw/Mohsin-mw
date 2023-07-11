@@ -18,9 +18,5 @@
 
 <h2> Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsin-mw&theme=algolia&hide_border=true"/><br><br>
-
-
-    
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohsin-mw&theme=radical)](https://git.io/streak-stats) 
