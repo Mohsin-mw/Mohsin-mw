@@ -17,5 +17,10 @@
 <h2> Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohsin-mw&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Mohsin-mw GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsin-mw&theme=algolia)](https://github.com/Mohsin-mw/github-readme-stats) 
+<p align="center">
+<a href="https://github.com/Mohsin-mw">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohsin-mw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohsin-mw&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br>
