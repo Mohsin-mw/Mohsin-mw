@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,astro,ts,firebase)](https://skillicons.dev)
 <a href="https://refine.dev/?playground=true" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/104967037?s=48&v=4"  />
+<img src="https://avatars.githubusercontent.com/u/54469796?s=50&v=4](https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg"  />
 </a>
 
  
