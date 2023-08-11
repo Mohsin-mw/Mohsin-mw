@@ -8,7 +8,7 @@
 I'm Mohsin, an experienced developer with a strong command of React, Redux, TypeScript, Tailwind CSS, and Astro. With a knack for crafting dynamic UIs that seamlessly merge design and functionality, I'm dedicated to delivering exceptional user experiences using cutting-edge technologies 🚀. Let's collaborate and bring outstanding projects to life with React and more! 💼👯
 
 ### 🎨 React Redux Virtuoso
-I specialize in creating captivating user interfaces using React, Redux for state management, and TypeScript for type-safe code. Tailwind CSS adds a touch of style, and Astro ensures high-performance delivery.
+I specialize in creating captivating user interfaces using React, Redux for state management, and TypeScript for type-safe code
 
 ### 🚀 Creative Problem Solver
 
