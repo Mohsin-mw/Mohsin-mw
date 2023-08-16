@@ -28,7 +28,7 @@ As a developer deeply immersed in the React ecosystem, I excel in creative probl
 
 <p align="center">
 <a href="https://github.com/Mohsin-mw">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&theme=algolia" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&locale=en&layout=compact&theme=algolia""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&layout=compact&theme=algolia"/>
 </a>
 </p>
