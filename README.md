@@ -2,18 +2,18 @@
 <h2> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
+ 
 ### 👋 Welcome to My GitHub!
 
+I'm Mohsin, a seasoned Frontend Engineer with expertise in Angular, Vue, Next.js, and React. I thrive on crafting dynamic and engaging user interfaces that seamlessly blend design and functionality, using the latest technologies 🚀. My passion is to deliver exceptional user experiences by leveraging my extensive knowledge in these cutting-edge frontend frameworks. Let's collaborate and breathe life into outstanding projects using Angular, Vue, Next.js, React, and more! 💼👯
 
-I'm Mohsin, an experienced developer with a strong command of React, Redux, TypeScript, Tailwind CSS, and Astro. With a knack for crafting dynamic UIs that seamlessly merge design and functionality, I'm dedicated to delivering exceptional user experiences using cutting-edge technologies 🚀. Let's collaborate and bring outstanding projects to life with React and more! 💼👯
+### 🎨 Angular, Vue, Next.js, React Master
 
-### 🎨 React Redux Virtuoso
-I specialize in creating captivating user interfaces using React, Redux for state management, and TypeScript for type-safe code
+I specialize in creating captivating user interfaces using Angular, Vue, Next.js, and React, ensuring top-notch UI/UX experiences. Whether it's single-page applications or complex web solutions, I have the expertise to make it happen.
 
 ### 🚀 Creative Problem Solver
 
-As a developer deeply immersed in the React ecosystem, I excel in creative problem-solving. My expertise guarantees optimal performance and cross-browser compatibility, resulting in seamless and remarkable user interactions.
+With a deep immersion in the frontend ecosystem, I excel in creative problem-solving. My expertise guarantees optimal performance and cross-browser compatibility, resulting in seamless and remarkable user interactions across various frontend technologies.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
