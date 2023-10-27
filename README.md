@@ -1,26 +1,19 @@
 
+### 👋 About Me
 
-<h2> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+Greetings, and welcome to my GitHub portfolio. I am an accomplished Frontend Developer, specializing in crafting exemplary user interfaces with a focus on React, React-Native, and Next.js. My dedication lies in delivering exceptional user experiences through the adept utilization of cutting-edge frontend technologies.
 
+### 🚀 Expertise
 
- 
-### 👋 Welcome to My GitHub!
+I excel in creating captivating user interfaces, ensuring unparalleled UI/UX experiences. Whether it involves single-page applications or complex web solutions, I possess the expertise to make it happen.
 
-I'm Mohsin, a seasoned Frontend Engineer with expertise in Angular, Vue, Next.js, and React. I thrive on crafting dynamic and engaging user interfaces that seamlessly blend design and functionality, using the latest technologies 🚀. My passion is to deliver exceptional user experiences by leveraging my extensive knowledge in these cutting-edge frontend frameworks. Let's collaborate and breathe life into outstanding projects using Angular, Vue, Next.js, React, and more! 💼👯
+### 💡 Problem-Solving Proficiency
 
-### 🎨 Angular, Vue, Next.js, React Master
-
-I specialize in creating captivating user interfaces using Angular, Vue, Next.js, and React, ensuring top-notch UI/UX experiences. Whether it's single-page applications or complex web solutions, I have the expertise to make it happen.
-
-### 🚀 Creative Problem Solver
-
-With a deep immersion in the frontend ecosystem, I excel in creative problem-solving. My expertise guarantees optimal performance and cross-browser compatibility, resulting in seamless and remarkable user interactions across various frontend technologies.
+Deeply immersed in the frontend ecosystem, I excel in creative problem-solving. My proficiency ensures optimal performance and cross-browser compatibility, resulting in seamless and remarkable user interactions across various frontend technologies.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,astro,ts,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,astro,ts,firebase,supabase,appwrite)](https://skillicons.dev)
 
 
  
