@@ -21,7 +21,7 @@ Immersed in the frontend ecosystem, I bring creative problem-solving skills to t
 
 <p align="center">
   <a href="https://github.com/Mohsin-mw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&show_icons=true&theme=algolia&count-private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsin-mw&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook" />
   </a>
 </p>
