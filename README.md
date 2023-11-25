@@ -8,10 +8,6 @@ Greetings! I'm a seasoned Frontend Engineer, dedicated to the art of creating ex
 
 I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects.
 
-### 💡 Problem-Solving Proficiency
-
-Immersed in the frontend ecosystem, I bring creative problem-solving skills to the table. My proficiency ensures optimal performance, cross-browser compatibility, and the delivery of seamless, remarkable user interactions across diverse frontend technologies.
-
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,firebase,supabase,appwrite,prisma)](https://skillicons.dev)
