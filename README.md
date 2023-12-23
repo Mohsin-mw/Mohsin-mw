@@ -1,6 +1,3 @@
-
-
-
 ### 👋 About Me
 
 Greetings! I'm a seasoned Frontend Engineer, dedicated to the art of creating exceptional user interfaces. Specializing in React, React-Native, and Next.js, my focus is on engineering top-notch frontend solutions that elevate user experiences.
