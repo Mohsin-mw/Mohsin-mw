@@ -3,11 +3,11 @@
 
 ### 👋 About Me
 
-Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in Next.js, Node.js, and Express.
+Hey there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. Specializing in Next.js with a knack for diverse backend technologies.
 
 ### 🚀 Expertise
 
-I thrive in creating captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding full-stack projects.
+I excel in crafting captivating user interfaces that deliver unparalleled UI/UX experiences. Whether it's single-page applications or complex web solutions, my proficiency ensures the seamless realization of exceptional full-stack projects.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
