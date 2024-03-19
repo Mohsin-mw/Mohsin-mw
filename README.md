@@ -1,5 +1,5 @@
  
-
+<img height="180em" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s5OHNraWFjaHQ2aDNod3JwOHZ5cTBrdjJueXZsM2NxM3k1cGdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3HkR2ROCDHaGDvQKxX/giphy.gif" />
 
 ### 👋 About Me
 
@@ -16,10 +16,20 @@ I excel in crafting captivating user interfaces that deliver unparalleled UI/UX 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Mohsin-mw">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,css,HTML,Vue,Blade" />
+   
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade" />
   </a>
 </p>
+<p aligh="left"></p>
+<h2> Digital Badges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYxY2hsdW51Mmk1Y3I5aXQ2bmIxNDM1eG11aGh1d3p3aGFrNGs1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xiy8jp0OiGSzcokZL/giphy.gif" width=40px></h2>
 <br>
+<p align="left">
+  <a href="https://github.com/Mohsin-mw">
+    <img height="80em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/d8744855-d055-443f-bc90-b2be52c01b12" />
+  </a>
+</p>
+
