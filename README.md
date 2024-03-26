@@ -9,7 +9,7 @@ Hey there! I'm a seasoned Full Stack Developer, passionate about crafting except
 
 I excel in crafting captivating user interfaces that deliver unparalleled UI/UX experiences. Whether it's single-page applications or complex web solutions, my proficiency ensures the seamless realization of exceptional full-stack projects.
 
-<h2> Skills <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkMXdqbGlsZTQzdTl0bjF4anh4aXVlYWpkN2poYjExMWdyMnZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeUoFXwyzOksZrJ6D6/giphy.gif" width=48px></h2>
+<h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
 
 
 
@@ -31,12 +31,4 @@ I excel in crafting captivating user interfaces that deliver unparalleled UI/UX 
     <img height="80em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/239a6866-8d22-4450-b26d-ed8df711dcb6)" />
   </a>
 </p>
-
-<h2> Certifications <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
-<p align="left">
-  <a href="https://app.cybrary.it/courses/api/certificate/CC-ed0141ff-5437-4a58-a1e2-2e7f9d276251/view">
-    <img height="100em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/6bf064ef-c75a-47cb-be44-d2fb1fc86f56" />
-  </a>
-</p>
-
 
