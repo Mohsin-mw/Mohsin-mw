@@ -21,7 +21,7 @@ I excel in crafting captivating user interfaces that deliver unparalleled UI/UX 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin-mw&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
    
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade,HTML" />
   </a>
 </p>
 
