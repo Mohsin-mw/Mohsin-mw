@@ -1,5 +1,3 @@
- 
-<img height="180em" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s5OHNraWFjaHQ2aDNod3JwOHZ5cTBrdjJueXZsM2NxM3k1cGdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3HkR2ROCDHaGDvQKxX/giphy.gif" />
 
 ### 👋 About Me
 
