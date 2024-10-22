@@ -1,4 +1,3 @@
-
 ### 👋 About Me
 
 Hey there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. Specializing in Next.js with a knack for diverse backend technologies.
