@@ -2,15 +2,21 @@
 
 Hey there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. Specializing in Next.js with a knack for diverse backend technologies.
 
-### 🚀 Expertise
+### 🚀 What I Do
 
-I excel in crafting captivating user interfaces that deliver unparalleled UI/UX experiences. Whether it's single-page applications or complex web solutions, my proficiency ensures the seamless realization of exceptional full-stack projects.
+I create digital products for different businesses, focusing on easy-to-use SaaS solutions that help people work better. Right now, I'm working on launching my own SaaS project, "Froge."
+
+### 📧 Contact:
+
+
+- **Email:** [null.mmw@gmail.com](mailto:null.mmw@gmail.com)  
+- **Discord:** airodump_ng
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,flask,fastapi,django,express,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vue,react,nextjs,flask,fastapi,django,express,mongodb,postgres,mysql,prisma,appwrite)](https://skillicons.dev)
 
 <h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
 <p align="left">
