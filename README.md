@@ -4,7 +4,7 @@ Hey there! I'm a seasoned Full Stack Developer, passionate about crafting except
 
 ### 🚀 What I Do
 
-I create digital products for different businesses, focusing on easy-to-use SaaS solutions that help people work better. Right now, I'm working on launching my own SaaS project, "Froge."
+I create digital products for different businesses, focusing on easy-to-use SaaS solutions that help people work better.
 
 ### 📧 Contact:
 
