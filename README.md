@@ -1,4 +1,5 @@
 
+
 ### 👋 About Me
 
 Hey there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. I enjoy learning new things from different fields and experimenting with new ideas. I’m also really interested in reading books, teaching, and building my own digital products.
